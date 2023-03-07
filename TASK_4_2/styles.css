@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+  }
+  
+  input {
+    display: block;
+    margin-bottom: 1em;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  button {
+    display: block;
+    margin-bottom: 1em;
+    padding: 0.5em;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+  }
+  
